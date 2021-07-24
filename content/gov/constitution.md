@@ -5,7 +5,7 @@ description: 'CHRISCHRISPIECHRISCHRISPIECHRISCHRISPIE'
 
 <div style="text-align: center">
     <img src="/images/seal.png"/><br>
-    <span class="display-2">The Constitution and Code of Laws <br> of the <br> Republic of Icenia<span><br>
+    <span class="display-2">The Constitution <br> of the <br> Republic of Icenia<br></span>
 </div>
 
 
@@ -14,7 +14,6 @@ description: 'CHRISCHRISPIECHRISCHRISPIECHRISCHRISPIE'
 ## I.A The Grand Council
 The Grand Council is the legislative branch of the Icenian government, responsible for overall operation of Icenia and the wellbeing of the nation. These positions are all appointed, due to the nature of the work and need for consistency.
 
----
 
 ### I.A.1 Office of the Presidency
 #### I.A.1.a General Overview of the Position
@@ -23,7 +22,6 @@ The Icenian government shall have a President.  The Office of the Presidency sha
 #### I.A.1.b Requirements of the Position
 This position is initially awarded to user ChrisChrispie, the founder of Icenia. The President of Icenia may elect to appoint another user to their positon, at which point they become the next President of Icenia.
 
----
 
 ### I.A.2 Office of the Secretary of State
 #### I.A.2.a General Overview of the Position
@@ -32,7 +30,6 @@ The Icenian government shall have a Secretary of State. The Secretary of State i
 #### I.A.2.b Requirements of the Position
 The Secretary of State is appointed by the current President of Icenia.
 
----
 
 ### I.A.3 Secretary of Defense
 #### I.A.3.a General Overview of the Position
@@ -41,7 +38,6 @@ The Icneian Government shall have a Secretary of Defense. The Secretary of Defen
 #### I.A.3.b Requirements of the Position
 The Secretary of Defense is appointed by the current Secretary of State
 
----
 
 ### I.A.4 Director of National Intelligence
 #### I.A.4.a General Overview of the Position
@@ -49,8 +45,6 @@ The Icenian Goverment shall have a Director of National Intelligence. The Direct
 
 #### I.A.4.b Requirements of the Position
 The Director of National Intelligence is appointed by the current Secretary of State
-
----
 
 
 ### I.A.5 Secretary of Commerce
@@ -60,7 +54,6 @@ The Icenian Government shall have a Secreatry of Commerce. The Secretary of Comm
 #### I.A.5.b Requirements of the Position
 The Secretary of Commerce is appointed by the current Secretary of State
 
----
 
 ### I.A.6 Secretary of the Interior
 #### I.A.6.a General Overview of the Position
@@ -69,7 +62,6 @@ The Icenian Government shall have a Secretary of the Interior. The Secretary of 
 #### I.A.6.b Requirements of the Position
 The Secretary of the Interior is appointed by the current Secretary of State
 
----
 
 #### I.A.7 Secretary of Foreign Affairs
 #### I.A.7.a General Overview of the Position
@@ -78,13 +70,11 @@ The Icenian Government shall have a Secretary of Foreign Affairs. The Secretary 
 #### I.A.7.b Requirements of the Position
 The Secretary of Foreign Affairs is appointed by the current Secretary of State
 
----
 
 ## I.B The State Council
 
 The State Council is the branch of Icenian government that directly serves the People of Icenia. These positions are elected by the Citizens of Icenia
 
----
 
 ### I.B.1 Judges of Icenia
 #### I.B.1.a General Overview of the Position
@@ -95,7 +85,6 @@ One of the Judges of Icenia shall serve as the Grand Judge, to serve as the head
 #### I.B.1.b Requirements of the Position
 In Order to become a Judge, a candidate must be a full time residential citizen of the Republic of Icenia, and receive a majority vote after votes are tallied from the election. In order to become Grand Judge, one must receive the most amount of votes out of the three candidates elected to the Judge position.
 
----
 
 ### I.B.2 City Manager
 #### I.B.2.a General Overview of the Position
@@ -106,7 +95,6 @@ The City Manager shall work in coordination to develop and implement city and zo
 #### I.B.2.b Requirements of the Position
 In Order to become the City Manager, a candidate must be a full time residential citizen of the Republic of Icenia, and receive a majority vote after votes are tallied from the election.
 
---- 
 
 ### I.B.3 District Attorney
 #### I.B.3.a General Overview of the Position
@@ -115,7 +103,6 @@ The State Council shall have a District Attorney, to be responsible for prosecut
 #### I.B.3.b Requirements of the Position
 In Order to become the District Attorney, a candidate must be a full time residential citizen of the Republic of Icenia, and receive a majority vote after votes are tallied from the election.
 
----
 
 ## I.C Removal from Office
 Government Members can be removed from office by impeachment or forfeiture. Forfeiture affects all government positions while impeachment only affects some.
@@ -477,89 +464,9 @@ After a player serves their sentence in full, or successfully appeals their sent
 ### V.C.5 Extradition
 If foreign nations have claims upon an Icenian Citizen which involve the act of pearling someone, explicit permission must be granted by the Icenian government (Minister of Interior, Grand Judge, and President). Any attempt to pearl someone for claims in another nation, and take them there, shall be considered in Icenia a direct violation of Icenian law. Storing an illegally extradited pearl is a violation of Icenian law.
 
-# VI. Icenian Code of Laws
+# VI. Icenian Bill of Rights
 
-## VI.A Protection of Life
-Murder, defined as killing a player with malicious intent, or outside the reasonable bounds of self-defense of property, personage, or nation of Icenia, is outlawed in the Republic of Icenia.
-Assault, defined as hurting a player with malicious intent, or outside of the reasonable bounds of self-defense of property, personage, or nation of Icenia, is outlawed in the Republic of Icenia.
-Creating traps, devices, or structures whose explicit intent is to kill or maim in a readily accessible public area, defined as a place where a player could reasonably enter, or on the property of another individual in Icenia, is outlawed in the Republic of Icenia.
-
-## VI.B Protection of Property
-Alteration of public and private property in Icenia without the explicit consent of the rightful owner is outlawed in the Republic of Icenia.
-Breaking and entering into a private building or structure, of which one has not been granted rightful consent of entry by the lawful property owner, is outlawed in Icenia.
-Murder of private animals, defined as property, without the explicit consent of its rightful owner, it outlawed in the Republic of Icenia.
-The taking of personal property, without the explicit consent of its rightful owner, is outlawed in the Republic of Icenia.
-Private government funds, such as the treasury, may not be used for personal gain without the explicit consent of both the President of Icenia and the Minister of the Interior. All bounty transactions in regards to the government of Icenia must be written down for posterity in the #government channel of the Icenian Discord.
-
-## VI.C Protection of Liberty
-- There shall be no private slavery in Icenia, private as being defined as not government sponsored via the legal means of penal punishment.
-- Private citizens of Icenia shall not hold a pearl of a player in private for longer than three days. Pearls must be handed to government officials of Icenia within this time period for safe and just storage.
-- There shall be no extra-judicial trials within Icenia. All trials must be conducted by a Judge of Icenia.
-
-## VI.D Bounty-Hunting Law
-- There shall be no bounty hunting of Icenian citizens within the territories of the Republic Icenia without the explicit permission of both the President and Minister of Interior in Icenia. Bounty hunting, and pearl chasing, shall be allowed in cases where a criminal, who is non-Icenian, has crossed over into Icenian soil.
-
-## VI.E Snitch Law
-- No non-Icenian may place a snitch, defined in this constitution as a reinforced jukebox or noteblock, within Icenian territory without the explicit consent of both the President of Icenia and the Minister of Defense. The only exception to this rule is if the snitch is placed within the confines of a foreign embassy, shop, or private property legally built with permission from the Icenian government.
-- Snitches placed by non-Icenians on their own property must be registered to a group containing only the property owner(s).
-- Private players within Icenia may establish a snitch network within Icenia. Snitches must be limited to legally held property.
-- The Icenian government may snitch anywhere within its own land.
-- No snitch may be placed under private property by an individual who is not given consent to do so by the lawful property owner.
-
-## VI.F Bunker Law
-- No non-Icenian may build a bunker within Icenia without the explicit consent of both the President of Icenia and the Minister of Defense.
-- Private bunkers built by Icenian citizens may not escape the confines of their property and may not be built for the sole purpose of combat, defined as being bunkers with the idea of being directly militaristic in nature.
-
-## VI.G Factory Law
-- Icenia must have a basic public factory building, or structure, for citizens to use free of cost.
-
-## VI.H Bastion Law
-- No bastion in Icenia may be placed by a citizen or foreign entity without the explicit consent of the President of Icenia and the Minister of Defense.
-- Any bastion placed on private property within Icenia may not impact any property outside itself
-- The government of Icenia may place bastions anywhere within Icenia.
-
-## VI.I Vault Law
-- No private citizen may build a vault, defined as an offensive and defensive structure capable of holding pearls, in Icenia.
-- No foreign nation or entity may build a vault on Icenian soil without the explicit consent and approval of both the President of Icenia and the Minister of Defense.
-- The Icenian government shall own any vault within Icenia and it shall be maintained solely by them, or any secondary parties allowed with the consent of the Icenian government.
-
-## VI.J Rail Law
-- No foreign entity may snitch Icenian rails under Icenian territory.
-- Foreign nations must contact the Icenian government before building a rail to Icenia in order for it to be approved by the Minister of Foreign Affairs, Minister of the Interior, and President of Icenia.
-- Icenian rails are considered Icenian territory in the confines of the rail itself under any unclaimed land it may exist in, as well as any claimed land it passes through, but does not possess a stop within.
-- Under no circumstance shall an Icenian rail be rerouted without the explicit consent of the Icenian government via the President, Minister of Foreign Affairs, and Minister of the Interior.
-- Under no circumstance shall an Icenian rail be altered in any way, shape, or form without explicit consent of the Icenian government via the President, Minister of Foreign Affairs, and Minister of the Interior.
-
-## VI.K Treason
-- No Icenian national or government official may provide aid or otherwise help another nation with a malicious intent to Icenia under threat of pearl or expulsion from Icenia.
-- Providing confidential information to third party actors outside of Icenia, or other nations outside of Icenia, is considered treason.
-- Attempting to secede from Icenia is illegal and is considered treason.
-
-### VI.K.1 Due Intent
-There must be serious and proveable intent behind prosecuting treason cases. The party accused for committing treason must be intentionally seeking to undermine Icenia in a malicious way. One can critique the government and not be partaking in treason.
-
-## VI.L Building Law in Icenia
-
-### VI.L.1 Building Regulations
-- Buildings within Icenia must be constructed using at least two different kinds of blocks (I.E. stone brick and oak wood planks).
-- Buildings within Icenia shall not be constructed in such a way that obstructs a public roadway, railway, or any other public transit route.
-- Buildings within Icenia shall not be built in such a way that would infringe upon the property of another individual.
-- Buildings in Icenia must be built within the confines of their given property if placed on plotted land.
-- Buildings in Icenia may not be built in a way that is intentionally unsightly.
-
-### VI.L.2 Dereliction Procedure
-Dereliction in Icenia is defined as the process of transferring ownership of an existing private structure, or property, which is suspected to be abandoned or inactive to another player within Icenia. To begin the process, one must place an unreinforced sign on an existing private structure complete with the date, the word ‘dereliction notice’, and the name of the player. A picture must also be taken of the property, with the dereliction sign in view, and posted on the #dereliction channel of the Icenian discord. If within one week, the owner of the property has not contested the dereliction on the discord channel, or has taken down the sign, ownership of the property is signed over to the other party by the Minister of Interior of Icenia and the new owner may do what they please with the structure or property itself. The contents of any chests on the property must be taken out and placed in secure storage within the Icenian National Bank for the original owner, should they ever come back, to pick up.
-This chest shall be reinforced under the IcenianPublic group and an inventory of what is in them shall be made by the Minister of Interior. If in the event the owner of the original property comes back, then any and all items in the chest shall be rewarded back to them along with a small gift of 2 diamonds.
-
-1) All derelections must be approved by the Minister of the Interior. 
-
-2) After approval, the 7 day holding period begins during which the property owner can contest the dereliction
-
-3) At the end of the 7 day holding period, if the dereliction is uncontested the building and property are transferred to the ownership of the Ministry of the interior, at which point it is at their discretion what to do with the land
-
-# VII. Icenian Bill of Rights
-
-## VII.A Rights of Icenian Citizens
+## VI.A Rights of Icenian Citizens
 - To fall under rule of all of the laws and benefits of the Icenian Constitution already mentioned.
 - To have a right to freedom of speech and expression.
 - To have the right to freedom of the press.
@@ -569,13 +476,13 @@ This chest shall be reinforced under the IcenianPublic group and an inventory of
 - To have the right to freely travel within public land in Icenia.
 These rights will be voided if the citizen breaks the law or does something that would cause these rights to be taken away.
 
-## VII.B Rights of Foreign Nationals
+## VI.B Rights of Foreign Nationals
 - The right to be able to pass through Icenia unhindered provided they fall under no restrictions.
 - The right to travel through 0,0 regardless of their restrictions on travel in icenian territory.
 - The right to enjoy the right to protection of life in Icenia, unless otherwise stated.
 - The right to be able to own property within Icenia provided they fall under no restrictions or have no sanction imposed upon them.
 
-## VII.C Rights of Suspected Criminals
+## VI.C Rights of Suspected Criminals
 - The right to remain silent.
 - The right to an attorney/lawyer.
 - The right to face a trial within three days of filing claims.
@@ -583,7 +490,7 @@ These rights will be voided if the citizen breaks the law or does something that
 - The right to not face double jury sentencing.
 - The right to be tried in Icenian court of law if they have Icenian claims upon them.
 
-## VII.D Rights of Pearled Players
+## VI.D Rights of Pearled Players
 - The right to appeal their case within one month of sentencing if they choose to.
 - The right to not be permapearled, or effectively permapearled.
 - The right to be made aware of where there pearl will be stored.
@@ -591,24 +498,24 @@ These rights will be voided if the citizen breaks the law or does something that
 - The right to request time served off their sentence while waiting in a pearl to be tried.
 - The right to be held in Icenian captivity for the duration of their sentence, unless legally extradited.
 
-## VII.E Freedom of Speech and Expression
+## VI.E Freedom of Speech and Expression
 Under no circumstances shall any law be passed in Icenia infringing upon the right to freedom of speech and expression. This law excludes trading military secrets, confidential Icenian information, and doxxing of players. The right to freedom of speech and expression also includes the right to free press and publication, as well as religious orientation.
 
-## VII.F Right to Bear Arms
+## VI.F Right to Bear Arms
 The right to bear arms in Icenia shall not be infringed upon by any law. No object of which could reasonably be used in the defense of someone's right to life, liberty, and property as defined by the Icenian Constitution shall be banned.
 
-# VIII. Icenian Territory
+# VII. Icenian Territory
 
-## VIII.A. Extent of Icenian Territory
+## VII.A. Extent of Icenian Territory
 The territory of Icenia, as of the ratification of this constitution, is legally defined as this area from bedrock to sky limit here: (https://imgur.com/a/nug5zDI). Icenian territorial claims extend 200 blocks out into water from the nearest point of Icenian land. Icenia owns the closest half of the river in instances where Icenia’s territory is bordered by a river.
 
-## VIII.B Defining ‘Rail Territory’
+## VII.B Defining ‘Rail Territory’
 Icenia recognizes pre-existing rails built under its territory as property of their legal owner(s), but recognizes that the laws of Icenia still apply within them, so long as they are under Icenian territory. The same principle shall be applied to foreign rails built to Icenia. Any Icenian built rail running under, but not stopping in, foreign territory is by extent considered Icenian property, but not sovern Icenian land. This same principle applies to any rail built from Icenia leading to a foreign nation with a stop.
 
-### VIII.C ‘States’ Within Icenia
+### VII.C ‘States’ Within Icenia
 ‘States’ within Icenia, also defined as ‘vassal states’, ‘semi-independent entities’, ‘separate cities/regions’, and ‘vassals’ are defined as places in Icenia separate from Icenia Capitol District (Defined here: https://imgur.com/a/IQkN0X8) with their own distinct governor and area to build upon. To become a state within Icenia one must submit a request to the Minister of the Interior with the amount of people in the area currently, plans for the region, the name of the region/city, and their code of laws if they exist in any way separate from the Icenian Constitution. Approval of states within Icenia takes a vote from the President after the Minister of Interior writes a letter of recommendation to the President on what should be done in regards to the area proposed to become a state.
 
-### VIII.C.1: Rules Regarding States
+### VII.C.1: Rules Regarding States
 - States will have one judge from Icenia appointed to deal with any crime that may arise in their region. All crime in Icenia is prosecuted on a Federal, not state, level.
 - States must follow the Icenian Constitution and sign a legally binding agreement to follow it.
 - States may not secede from the Republic of Icenia.
@@ -619,16 +526,16 @@ Icenia recognizes pre-existing rails built under its territory as property of th
 - The Grand Council of Icenia may revoke the governorship of a governor if they undermine Icenia in any way.
 - States may be dissolved if there remains no populus, if they become an issue for Icenia, or request it.
 
-# IX. National Holidays and Remembrances
+# VIII. National Holidays and Remembrances
 
-## IX.A National Holidays
+## VIII.A National Holidays
 The following days shall be considered national holidays of importance within the Republic of Icenia.
 
 Icenian Independence Day shall be recognized and celebrated on July 8th of every year. This is the date that Icenia declared independence from Kaiserin in 2.0.
 Icenian Re-Establishment Day shall be recognized and celebrated on March 11th of every year. This is the date that the Republic of Icenia reformed as her true self for the first time since Civcraft 2.0
 Constitution Day shall be recognized and celebrated on April 30th of every year. This is the date the Icenian constitution was ratified.
 
-## IX.B National Days of Remembrance
+## VIII.B National Days of Remembrance
 The following days shall be considered national days of remembrance within Icenia.
 
 Jah’ Day shall be recognized on June 18th of every year to remember the late Jahseh Dwayne Onfroy, a pinnacle of Icenian culture and philosophy.
